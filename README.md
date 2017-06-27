@@ -5,5 +5,3 @@ need list of burgers:
  2. 86 Cheese burger. No cheese on the burger. So a hamburger. 
  3. The meatssiah
 added more stuff
-bloopersa
-going to test this
