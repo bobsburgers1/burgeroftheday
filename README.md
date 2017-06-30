@@ -7,8 +7,3 @@ need list of burgers:
 added more stuff
 bloopersa
 going to test this, testing still
-oh heyyy
-blah
-                                 hi
-did     that work? 
-maps
