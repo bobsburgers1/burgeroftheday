@@ -8,5 +8,3 @@ added more stuff
 bloopersa
 going to test this, testing still
 did all of that stuff! did you?
-this thing here
-also that
