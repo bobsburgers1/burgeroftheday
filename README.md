@@ -13,5 +13,4 @@ there it is
 4. is this the list still? 
 5. OH it is!
 6. where are lines 7-11?
-7. is here 
-well hi
+7. is here!
