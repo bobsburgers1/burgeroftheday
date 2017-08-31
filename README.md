@@ -18,5 +18,6 @@ hi there
 8. no sleep for brooklyn
 9. cheers. it's a show
 10. i added more stuff
-this is here too
+- this is here too
 11. was that other line there?
+- maybe the line is needed (-)
