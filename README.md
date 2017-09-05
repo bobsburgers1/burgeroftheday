@@ -25,3 +25,4 @@ hi there
 - trying a few more things. Such as a super long sentence. how long will it go? kinda sounds like how low can you go with the whole limbo thing. I dunno. here it goes. 
 I'm testing the branch names again.
 the format is turning out different than I expected. that's ok though. 
+this is a pretty long readme. i feel like it explains things though. well not really, but it's a nice thought. 
