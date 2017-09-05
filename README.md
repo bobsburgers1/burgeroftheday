@@ -26,3 +26,4 @@ hi there
 I'm testing the branch names again.
 the format is turning out different than I expected. that's ok though. 
 this is a pretty long readme. i feel like it explains things though. well not really, but it's a nice thought. 
+- another bullet point is gonna make this list look real nice clark. 
