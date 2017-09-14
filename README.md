@@ -30,3 +30,4 @@ this is a pretty long readme. i feel like it explains things though. well not re
 - still testing PRs n such
 - hows this going
 - is this still working? branch test for this
+is this the longest readme or wat?
