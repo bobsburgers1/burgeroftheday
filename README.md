@@ -34,3 +34,4 @@ this is a pretty long readme. i feel like it explains things though. well not re
 is this the longest readme or wat?
 it is quite long. gonna get even longer. just you watch. 
 oops just forgot to change stuff. more changes for testing.
+this is quite confusing
