@@ -20,7 +20,7 @@ hi there
 9. cheers. it's a show
 10. i added more stuff
 - this is here too
-11. was that other line there? adding random stuff here. 
+11. was that other line there? adding random stuff here. i'll add those things too.
 - maybe the line is needed (-)
 - yas that was missing. 
 - trying a few more things. Such as a super long sentence. how long will it go? kinda sounds like how low can you go with the whole limbo thing. I dunno. here it goes. 
