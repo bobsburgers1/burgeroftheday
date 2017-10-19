@@ -35,5 +35,3 @@ is this the longest readme or wat?
 it is quite long. gonna get even longer. just you watch. 
 oops just forgot to change stuff. more changes for testing.
 this is quite confusing
-so it this
-this testing thing is getting quite redic
